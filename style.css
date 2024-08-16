@@ -10,7 +10,7 @@ body {
     align-items: center;
     height: 100vh;
     text-align: center;
-    background-image: url(./bg.jpg);
+    background-image: url(bg.jpg);
     background-size: cover;
     /* background: #000; */
 }
